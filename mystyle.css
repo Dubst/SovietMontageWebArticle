@@ -298,9 +298,9 @@ ul, li, a{
 }
 
 .film-d{
-    border: solid;
+   /* border: solid;
     border-color: var(--text1);
-    border-width: 1px;
+    border-width: 1px;*/
     border-radius: 1rem;
     width: 50%;
     height: 80%;
@@ -314,9 +314,9 @@ ul, li, a{
 /*--film makers text--*/
 
 .film-t{
-    border: solid;
+   /* border: solid;
     border-color: var(--text1);
-    border-width: 1px;
+    border-width: 1px;*/
     color: var(--text1);
     text-align: center;
     height: 5rem;
